@@ -1,0 +1,3 @@
+adb devices
+
+adb push com.mobile.legends /sdcard/Android/data

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"
+
+<manifest> 
+
+    <project path="device/realme/RM6785" name="psionic-device_realme_RM6785" remote="github" revision="psionic-12"
+    <project path="device/kernel/RM6785" name="psionic-kernel_realme_mt6785" remote="github" revision="psionic-main"
+    <project path="device/vendor" name="psionic-vendor_realme" remote="github" revision="psionic-12"
+
+</manifest>
